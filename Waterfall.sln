@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waterfall", "Waterfall.csproj", "{218A5CC9-5001-4298-B9A6-405A2A22BDA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waterfall", "Source\Waterfall\Waterfall.csproj", "{218A5CC9-5001-4298-B9A6-405A2A22BDA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
